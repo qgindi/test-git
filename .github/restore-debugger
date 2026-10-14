@@ -1,2 +1,7 @@
-2026-10-14_12-29
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-10-14_12-38
+0ba147f0ef49942e36f9fcdfcb6069adb5cdbbdcb7e29cad4bfccffa268a0abc
+Debugger\ManagedPart.dll
+Debugger\arm64\dbgshim.dll
+Debugger\arm64\netcoredbg.exe
+Debugger\x64\dbgshim.dll
+Debugger\x64\netcoredbg.exe
