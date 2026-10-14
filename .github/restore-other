@@ -1,7 +1,9 @@
-2026-10-14_12-43
-530a88ac18dc748a86bbd0a6011b72e19c02b151daefeb0253360ed38bad0ce1
+2026-10-14_12-49
+96ace2ed2571bdae34af8237201ee2232a5190523352601a44e352c4c922368b
 AxMSTSCLib.dll
+icons.db
 MSTSCLib.dll
+winapi.db
 Debugger\ManagedPart.dll
 Debugger\arm64\dbgshim.dll
 Debugger\arm64\netcoredbg.exe
